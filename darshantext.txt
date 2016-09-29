@@ -3,6 +3,6 @@ function()
 
 someMethod()
 {
-"Hi hello hihihihi"
+"Hi hello lalala"
 }
 
